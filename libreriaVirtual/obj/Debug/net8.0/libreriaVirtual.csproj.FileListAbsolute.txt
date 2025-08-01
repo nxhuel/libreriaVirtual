@@ -134,10 +134,10 @@ D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\stati
 D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\staticwebassets.development.json
 D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\libreria.F1B3CAD8.Up2Date
 D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\libreriaVirtual.dll
 D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\refint\libreriaVirtual.dll
 D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\libreriaVirtual.pdb
 D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\libreriaVirtual.genruntimeconfig.cache
 D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\ref\libreriaVirtual.dll
+D:\cursos-programacion\c#\libreriaVirtual\libreriaVirtual\obj\Debug\net8.0\libreriaVirtual.sourcelink.json
