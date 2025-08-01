@@ -11,4 +11,4 @@
 - Casos de Uso
 - Diagrama de clases general
 
-<img width="1793" height="771" alt="image" src="https://github.com/user-attachments/assets/0b3feebe-aaf1-43bd-ab5d-0f1667d43598" />
+<img width="1694" height="724" alt="image" src="https://github.com/user-attachments/assets/662a78e0-d3d9-4889-8dce-ed249ea5e7a4" />
