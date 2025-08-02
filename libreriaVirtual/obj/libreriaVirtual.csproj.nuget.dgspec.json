@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cursos-programacion\\c#\\libreriaVirtual\\libreriaVirtual\\libreriaVirtual.csproj": {}
+    "/home/alberto/Documentos/nahuel/proyectos/libreriaVirtual/libreriaVirtual/libreriaVirtual.csproj": {}
   },
   "projects": {
-    "D:\\cursos-programacion\\c#\\libreriaVirtual\\libreriaVirtual\\libreriaVirtual.csproj": {
+    "/home/alberto/Documentos/nahuel/proyectos/libreriaVirtual/libreriaVirtual/libreriaVirtual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cursos-programacion\\c#\\libreriaVirtual\\libreriaVirtual\\libreriaVirtual.csproj",
+        "projectUniqueName": "/home/alberto/Documentos/nahuel/proyectos/libreriaVirtual/libreriaVirtual/libreriaVirtual.csproj",
         "projectName": "libreriaVirtual",
-        "projectPath": "D:\\cursos-programacion\\c#\\libreriaVirtual\\libreriaVirtual\\libreriaVirtual.csproj",
-        "packagesPath": "C:\\Users\\Nahuel\\.nuget\\packages\\",
-        "outputPath": "D:\\cursos-programacion\\c#\\libreriaVirtual\\libreriaVirtual\\obj\\",
+        "projectPath": "/home/alberto/Documentos/nahuel/proyectos/libreriaVirtual/libreriaVirtual/libreriaVirtual.csproj",
+        "packagesPath": "/home/alberto/.nuget/packages/",
+        "outputPath": "/home/alberto/Documentos/nahuel/proyectos/libreriaVirtual/libreriaVirtual/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nahuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/alberto/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -82,6 +75,10 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -106,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

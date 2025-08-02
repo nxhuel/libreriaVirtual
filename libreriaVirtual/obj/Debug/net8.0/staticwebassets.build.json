@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"24fuqFu/t+eWr1fj+70U8CTyG/0Qt3/r7bY+5ew3IlQ=","Source":"libreriaVirtual","BasePath":"_content/libreriaVirtual","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "0w2ZaQI2nzQ57PokeEXFfOsjWYp+vIPoNZEPBzzc4EQ=",
+  "Source": "libreriaVirtual",
+  "BasePath": "_content/libreriaVirtual",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

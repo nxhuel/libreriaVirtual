@@ -5,8 +5,14 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Connection DataBase
+
+// var connectionString = builder.Configuration.GetConnectionString("Connection");
+// builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
+
 var connectionString = builder.Configuration.GetConnectionString("Connection");
-builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
 
 // Add services to the container.
 
@@ -37,6 +43,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 else
+{
+    
+}
 {
     app.UseExceptionHandler("/Error");
     app.UseHsts();
