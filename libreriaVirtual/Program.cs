@@ -34,6 +34,9 @@ builder.Services.AddCors(options =>
                         .AllowAnyHeader());
 });
 
+// Integration services
+// builder.Services.AddScoped<IRoleService, RoleService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -43,9 +46,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 else
-{
-    
-}
 {
     app.UseExceptionHandler("/Error");
     app.UseHsts();

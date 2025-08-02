@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("libreriaVirtual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7910c3fd9cd7ead297cc1016c51855f4e09f18bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50e2c4a81884c081996e1d411b39f1d5ff9fb1b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("libreriaVirtual")]
 [assembly: System.Reflection.AssemblyTitleAttribute("libreriaVirtual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
